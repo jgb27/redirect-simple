@@ -1,0 +1,34 @@
+.rs-redirect {
+    margin-bottom: 10px;
+}
+
+.rs-redirect input[type="text"] {
+    width: 40%;
+    margin-right: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.rs-remove-redirect {
+    background-color: #ff5c5c;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.rs-remove-redirect:hover {
+    background-color: #e60000;
+}
+
+#rs-add-redirect {
+    background-color: #0073aa;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#rs-add-redirect:hover {
+    background-color: #005177;
+}
